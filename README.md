@@ -1,4 +1,4 @@
-## Hi 👋, I'm Nhat Hoang | AI Engineer | Data Scientist
+## Hi there 👋, I'm Nhat Hoang | AI Engineer | Data Scientist
 
 ![92398696-07e9ae00-f164-11ea-9f4f-42df807a6218](https://user-images.githubusercontent.com/18329471/143008836-160bb1b4-2289-4476-9777-2d9c75275916.gif)
 
@@ -7,9 +7,11 @@
  
 - **Skills:** AI, Computer Vision, Machine Searning, Deep Learning, MLops, Model Serving, NLP.
 - **Coding languages:** Python (mostly use), C/C++, Scala, Dart.
-- **Links:** [My LinkedIn](https://www.linkedin.com/in/hoang-nhat-902398182/)
+- **Contact me:** [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nhathoang.nguyen.5661)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hoang-nhat-902398182/)
+[![Email](https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:nhathoangdk42@gmail.com?subject=[Freelancer]%20Hello)
 
-<img style="float: left;" src="https://github-readme-stats.vercel.app/api?username=nhathoang0110&count_private=true&show_icons=true&hide_border=false">
+<img style="float: left;" src="https://github-readme-stats.vercel.app/api?username=nhathoang0110&count_private=true&theme=buefy&show_icons=true&hide_border=false">
 
 <!---
 nhathoang0110/nhathoang0110 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
