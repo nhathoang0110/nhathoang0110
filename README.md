@@ -7,7 +7,7 @@
  
 - **Skills:** AI, Computer Vision, Machine Searning, Deep Learning, MLops, Model Serving, NLP.
 - **Coding languages:** Python (mostly use), C/C++, Scala, Dart.
-- **Contact me:** [My Linkedin](https://www.linkedin.com/in/hoang-nhat-902398182/)
+- **Contact me:** [My LinkedIn](https://www.linkedin.com/in/hoang-nhat-902398182/)
 
 <img style="float: left;" src="https://github-readme-stats.vercel.app/api?username=nhathoang0110&count_private=true&theme=buefy&show_icons=true&hide_border=false">
 
