@@ -10,8 +10,8 @@
   <img src=" https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"> 
   <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A.svg?logo=Raspberry%20Pi&style=flat"> 
   <img src="https://img.shields.io/badge/-Docker-222222.svg?logo=docker&style=flat"> 
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"> 
   <img src="https://img.shields.io/badge/-Flutter-222222.svg?logo=flutter&style=flat"> 
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"> 
   <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white"> 
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> 
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> 
